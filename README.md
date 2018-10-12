@@ -4,12 +4,12 @@
 
 A natural disaster evolves over multiple phases. and in each of these the necessary and precautionary measures taken vary. With slight nuances in each of these methods over a phase, we believe we can save more lives and reduce the socio-economic damage to our society. Considering the wide span of the problem statement, we propose an application comprising the following as a solution to get to the desired goal. Following are the components in our application, it's working and the phase of the disaster in which they would assist the community:
 
-1) Prepare<br> 
-	1.1) STEP 0 - using available APIs to fetch precautionary measures,disaster resistance structure guidance,important medical procedures,important contacts 	  etc. which would assist a confused and stumped user with immediate first and the best possible step at the moment
+1) <b>Prepare</b><br> 
+	1.1) STEP 0 - using available APIs to fetch precautionary measures,disaster resistance structure guidance,important medical procedures,important contacts etc. which would assist a confused and stumped user with immediate first and the best possible step at the moment
 
 	1.2) Am I in danger - let the user know if he is in a high seismic zone or in an area prone to dangers form the disaster.
 
-2) Prediction of earthquake using previous data or by detecting p-waves generated before earth quake which gives the user enough time to react and take the necessary precautionary measures.
+2) <b>Prediction</b> of earthquake using previous data or by detecting p-waves generated before earth quake which gives the user enough time to react and take the necessary precautionary measures.
 
 The prediction of earthquakes or their oceanic counterparts, the tsunamis, is our prime focus at this point. We will attempt to solve this problem by one of, or by an amalgamation of the methodologies mentioned forthwith: 
 
@@ -22,12 +22,12 @@ The detection of P waves becomes a pattern recognition problem and we intend to 
 The above ideas are what we have arrived at following extensive research on the issue, and we intend to choose the better performing approach, unless an amalgamation of the two yields more accurate results.
 
 
-3) Heat-map: Social media is an important medium to track and spread awareness about natural disaster so we shall fetch all the mentions of a particular disaster from social media platforms(for example, tweets for a given hashag(#hurricaneIrene) and the geo-tags associated with them). We the use this data to build a heatmap to get a user's account of affected areas and validate a natural disaster. This is a crucial element in our app, as it is very necessary to not put an alarming facade of the scenario to the society. It is necessary to present facts and facts only. This is backed by a disaster tracker which aggregates the news about disasters from veritable sources (like news networks and weather stations)
+3) <b>Heat-map</b>: Social media is an important medium to track and spread awareness about natural disaster so we shall fetch all the mentions of a particular disaster from social media platforms(for example, tweets for a given hashag(#hurricaneIrene) and the geo-tags associated with them). We the use this data to build a heatmap to get a user's account of affected areas and validate a natural disaster. This is a crucial element in our app, as it is very necessary to not put an alarming facade of the scenario to the society. It is necessary to present facts and facts only. This is backed by a disaster tracker which aggregates the news about disasters from veritable sources (like news networks and weather stations)
 
-4) Identity and Treatment: When rescued,there is no way to know a persons identity and let his/her kins about his well being. Often treatment is delayed due to basic medical checks,this can be deciding factor. To combat this we shall allow people to submit basic details,blood group,previous medical history and insurance and hence allow rescuers to scan facial features to get back this info and allow finding of nearest blood donors.
+4) <b>Identity and Treatment</b: When rescued,there is no way to know a persons identity and let his/her kins about his well being. Often treatment is delayed due to basic medical checks,this can be deciding factor. To combat this we shall allow people to submit basic details,blood group,previous medical history and insurance and hence allow rescuers to scan facial features to get back this info and allow finding of nearest blood donors.
 
 The above being the primary features of our app, they are further supported by a few ancillary features as follows
 
-i) Request map: Allow people at a given shelter home to raise requests for food,medical need,clothing,loss claims and allow more curated distribution of these resources<br>
-ii)BroadCast Distress message
+i) <b>Request map<b>: Allow people at a given shelter home to raise requests for food,medical need,clothing,loss claims and allow more curated distribution of these resources<br><br>
+ii)<b>BroadCast Distress message</b>
 
