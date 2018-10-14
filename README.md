@@ -5,7 +5,7 @@
 <b>Problem Statement</b>
 Find better ways to save lives and prevent economic losses through mechanisms to predict, prevent, or manage the impact of natural disasters.
 
-A natural disaster evolves over multiple phases. and in each of these, the necessary and precautionary measures taken vary. With slight nuances in each of these methods over a phase, we believe we can save more lives and reduce the socio-economic damage to our society. Considering the wide span of the problem statement, we propose an application comprising the following as a comprehensive solution. Following are the components in our application, its working and how they will assist the community:
+A natural disaster evolves over multiple phases. and in each of these, the necessary and precautionary measures taken vary. With slight nuances in each of these methods over a phase, we believe we can save more lives and reduce the socio-economic damage to our society. Considering the wide span of the problem statement, we propose a <b>web application</b> comprising the following as a comprehensive solution. Following are the components in our application, its working and how they will assist the community:
 
 1) <b>Prepare</b><br> 
 	1.1) STEP 0 - Displaying precautionary measures,disaster resistance structure guidance,important medical procedures,important contacts etc. to assist a confused user with immediate first aid and guidance about the best possible step at the moment
