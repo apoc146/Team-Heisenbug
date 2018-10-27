@@ -5,5 +5,7 @@ The tweets ipynb was a simple test script we ran to fetch tweets for testing pur
 <b> A third excellent idea we were looking to implement was to conduct was P Wave detection. The idea behind this was to detect the precursor P Waves to the destructive S Waves and take possible precautionary measures.</b>
 <b> We intended to implement this by processing the waveforms and using Mel Frequency Cepstral Coefficients (MFCCs) for feature extraction and then classifying using either a convnet or other simpler binary classification algorithms.</b>
 <br>
-Unfortunately we didn't do this as the data was very hard to find.
+Unfortunately we couldn't do this as the data for P Waveforms was very hard to find.
+
+The dataset we used for earthquake prediction was https://www.kaggle.com/usgs/earthquake-database>
 
