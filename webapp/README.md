@@ -8,43 +8,44 @@ to reduce loss to life and property
 5)it is able to do so because of the live USGS api ang google maps geomapping api
 
 <br><br>
-
+<b>Management</b>
 <b>Idea for Faster aid delivery and treatment</b>
 <ul>
 
 <li>
-1)Another big problem that rescuer has to face is that when rescued there is no way to determine the persons identity
+Another big problem that rescuer has to face is that when rescued there is no way to determine the persons identity
 </li>
 
 <li>
-2)Often a valuable amount of time is wasted in basic medical checkups which can been avoided if basic medical and persona history is readily avaible
+Often a valuable amount of time is wasted in basic medical checkups which can been avoided if basic medical and personal details are readily avaible
 </li>
   
 <li>
-3)this also allows in easily informing family and settle medical and other insurance claims
+This also allows in easily informing family and settle medical and other insurance claims
 </li>
 
 <li>
-4)same data can be used to send distress messages on their mail id using "sendemail" package in linux or using paid service like
+Same data can be used to send distress messages on their mail id using "sendemail" package in linux or using paid service like
 <b>Twilio</b>
 </li>
   
 <li>
-5)our Idea was to allow user to upload basic info along with his image which gets stored in Azure SQL DB
+Our Idea was to allow user to upload basic info along with his image which gets stored in Azure SQL DB
 </li>
 
 <li>
-6)when a rescuer rescues someone he can scan his image and upload
+When a rescuer rescues someone he can scan his image and upload
 </li>
   
 <li>
-7)The image is matched across all images in db using Azure Face Matching Azure Cognitive API and top 3 entries are returned
+The image is matched across all images in db using Azure Face Matching Azure Cognitive API and top 3 entries are returned
 </li>
   
 <li>
-8)the resuer can then select the most similar one and know his medical history,allergies,blood group,insurance claims and contact details
+The resuer can then select the most similar one and know his medical history,allergies,blood group,insurance claims and contact details
 </li>
 
-<li>9)how ever we ares still in process to implement this and hope to finsish intergating the api in next couple of hours
+<li>How ever we ares still in process to implement this and hope to finsish intergating the api in next couple of hours
 </li>
+
 </ul>
